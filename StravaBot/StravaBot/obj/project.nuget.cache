@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4ASZZBUlCfja5yq9+ubOCrrHJfM6OUCXvcHf5D/7mwt8kjXrS+nRLc6SvZ0FoevzEjIVi3DsL/u5dbeoiW3IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mihail\\source\\repos\\StravaBot\\StravaBot\\StravaBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihail\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mihail\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
